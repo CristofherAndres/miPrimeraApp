@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">miPrimeraApp</string>
+    <string name="texto">Mi primera app</string>
+    <string name="hecho">Hecha por Cristofher</string>
+</resources>
